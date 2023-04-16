@@ -1,0 +1,15 @@
+s01@wp.pl,Krystian,Matczak,40
+s02@wp.pl,Malina,Kowalska,55,3.0,graded
+s03@wp.pl,Wojtek,Kowalczuk,60,3.0,mailed
+s04@wp.pl,Eustachy,Nowak,65,3.5,mailed
+s05@wp.pl,Jaroslaw,Kaminski,48
+s06@wp.pl,Robert,Makowski,67
+s07@wp.pl,Hubert,Mazur,40
+s08@wp.pl,Czesław,Wasilewska,80,4.0,mailed
+s09@wp.pl,Eustachy,Kowalski,91,5.0,graded
+s10@wp.pl,Michał,Laskowska,95
+s11@wp.pl,Marcel,Kaczmarczyk,62,3.5,mailed
+s12@wp.pl,Natan,Witkowski,46,2.0,mailed
+s13@wp.pl,Bruno,Kwiatkowski,15,2.0,graded
+s14@wp.pl,Anastazy,Jakubowski,30
+S15@wp.pl,Aleksandra,Kwiatkowska,78
